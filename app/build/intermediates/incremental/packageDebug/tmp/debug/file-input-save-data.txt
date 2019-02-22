@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Feb 22 16:39:09 IST 2019
+0.baseType=DIRECTORY
+0.base=/Users/baps/medium_blog/AdaptiveExoplayer/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

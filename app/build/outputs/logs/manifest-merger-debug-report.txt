@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/87bda1bae8af0175904fa3752edc6828/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b5e248a541d0eb6fbbb22081775bf7b1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-2.9.3.aar/701b09b4779e4951a590b13ab9612ecd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/baps/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/73983b7a3ef8c3298fcce0bffce1a11c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /Users/baps/.gradle/caches/transforms-1/files-1.1/ssp-android-1.0.5.aar/89b9bce23bbc5bc1014ad6ca57ec3acf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/df4814ee4a6bbdb5170e60def3d1ae83/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/06fda2b802bc73d9e206a461a4dad8b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f95779889efe2891efcc9ec99eb5e8e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1ac1b4bfa4601580d3c695e4536a7336/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e448c5d9c9a60a501cb189d103539525/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d7586d400ef01775e2e6501f73fe3571/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.9.3.aar/76f528bb402501cb7714bdff13782ab3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/555af6e3c746def39825a85135fa8231/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c1c2375dd6cf5a023986655901df442b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ac2a6b2da7d3e36b248d9395764a2faf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2d2cb7021bdfccb66be7cca570af3481/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4551d5813e2c282be4a16c250f6fe148/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3425fa0c989299a62523ed374a61a5d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c2835f4796db9b99415c224a2694b07c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ab409e364e90bf1f237901ee451680e3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df74fb767d7ee981f6afead7f0f2755d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72fecc9c01b113c3edf330ef6105bf48/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/df43b805a34b3a4f47a11060e32166a4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.3.aar/ef76bdd7e2a34e18cd0edcf5d63a4bdf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.3.aar/3312e73c601b7302601bfd41031b3e1c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.3.aar/44f08f0c8019bf4733e6078b5188e591/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/567eff37b682742bd4bbb5b751a537e7/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b9bda812989069a3523fdf3380f04455/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/50957f468ed2a9100de0b8031784f73d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a854e82df97aeaf571ea43a4b83edf5e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d5ccdab5342c9d572f84e57a175a701/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4d0a01a41dd7aefaa2b64f452b0fbe2d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5cfb8fa2cc6447ee4c4e67153937ac10/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/01e14a8f9c6713178f11209d15288b50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e99078df986b2edf07510a35f8d90155/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/47ff322b46c09e06d2380149cc4d9f42/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/js-evaluator-for-android-v4.0.0.aar/27d039f134190ed96005c614d8c27062/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:5:5-66
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:11:5-67
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b5e248a541d0eb6fbbb22081775bf7b1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b5e248a541d0eb6fbbb22081775bf7b1/AndroidManifest.xml:9:5-20
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:13:5-16:19
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:13:5-16:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df74fb767d7ee981f6afead7f0f2755d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df74fb767d7ee981f6afead7f0f2755d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72fecc9c01b113c3edf330ef6105bf48/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72fecc9c01b113c3edf330ef6105bf48/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/js-evaluator-for-android-v4.0.0.aar/27d039f134190ed96005c614d8c27062/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/js-evaluator-for-android-v4.0.0.aar/27d039f134190ed96005c614d8c27062/AndroidManifest.xml:11:5-14:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df74fb767d7ee981f6afead7f0f2755d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:14:9-28
+activity#com.adaptive.exoplayer.MainActivity
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:windowSoftInputMode
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:17:13-54
+	android:configChanges
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:18:13-106
+	android:name
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/87bda1bae8af0175904fa3752edc6828/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/87bda1bae8af0175904fa3752edc6828/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b5e248a541d0eb6fbbb22081775bf7b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/b5e248a541d0eb6fbbb22081775bf7b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-2.9.3.aar/701b09b4779e4951a590b13ab9612ecd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-2.9.3.aar/701b09b4779e4951a590b13ab9612ecd/AndroidManifest.xml:20:5-22:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/baps/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/73983b7a3ef8c3298fcce0bffce1a11c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] /Users/baps/.gradle/caches/transforms-1/files-1.1/sdp-android-1.0.5.aar/73983b7a3ef8c3298fcce0bffce1a11c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /Users/baps/.gradle/caches/transforms-1/files-1.1/ssp-android-1.0.5.aar/89b9bce23bbc5bc1014ad6ca57ec3acf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.5] /Users/baps/.gradle/caches/transforms-1/files-1.1/ssp-android-1.0.5.aar/89b9bce23bbc5bc1014ad6ca57ec3acf/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.HaarigerHarald:android-youtubeExtractor:master-SNAPSHOT] /Users/baps/.gradle/caches/transforms-1/files-1.1/android-youtubeExtractor-master-SNAPSHOT.aar/ac63909efe3129813b0fa2e166e783f6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/df4814ee4a6bbdb5170e60def3d1ae83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/df4814ee4a6bbdb5170e60def3d1ae83/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/06fda2b802bc73d9e206a461a4dad8b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/06fda2b802bc73d9e206a461a4dad8b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f95779889efe2891efcc9ec99eb5e8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5f95779889efe2891efcc9ec99eb5e8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1ac1b4bfa4601580d3c695e4536a7336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/1ac1b4bfa4601580d3c695e4536a7336/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e448c5d9c9a60a501cb189d103539525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/e448c5d9c9a60a501cb189d103539525/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d7586d400ef01775e2e6501f73fe3571/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/d7586d400ef01775e2e6501f73fe3571/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.9.3.aar/76f528bb402501cb7714bdff13782ab3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-ui-2.9.3.aar/76f528bb402501cb7714bdff13782ab3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/555af6e3c746def39825a85135fa8231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/555af6e3c746def39825a85135fa8231/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c1c2375dd6cf5a023986655901df442b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/c1c2375dd6cf5a023986655901df442b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ac2a6b2da7d3e36b248d9395764a2faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/ac2a6b2da7d3e36b248d9395764a2faf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2d2cb7021bdfccb66be7cca570af3481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2d2cb7021bdfccb66be7cca570af3481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4551d5813e2c282be4a16c250f6fe148/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/4551d5813e2c282be4a16c250f6fe148/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3425fa0c989299a62523ed374a61a5d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/3425fa0c989299a62523ed374a61a5d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c2835f4796db9b99415c224a2694b07c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/c2835f4796db9b99415c224a2694b07c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ab409e364e90bf1f237901ee451680e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/ab409e364e90bf1f237901ee451680e3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df74fb767d7ee981f6afead7f0f2755d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/df74fb767d7ee981f6afead7f0f2755d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72fecc9c01b113c3edf330ef6105bf48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/72fecc9c01b113c3edf330ef6105bf48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/df43b805a34b3a4f47a11060e32166a4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/df43b805a34b3a4f47a11060e32166a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.3.aar/ef76bdd7e2a34e18cd0edcf5d63a4bdf/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-2.9.3.aar/ef76bdd7e2a34e18cd0edcf5d63a4bdf/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.3.aar/3312e73c601b7302601bfd41031b3e1c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-hls-2.9.3.aar/3312e73c601b7302601bfd41031b3e1c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.3.aar/44f08f0c8019bf4733e6078b5188e591/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-smoothstreaming-2.9.3.aar/44f08f0c8019bf4733e6078b5188e591/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/567eff37b682742bd4bbb5b751a537e7/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/567eff37b682742bd4bbb5b751a537e7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b9bda812989069a3523fdf3380f04455/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b9bda812989069a3523fdf3380f04455/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/50957f468ed2a9100de0b8031784f73d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/50957f468ed2a9100de0b8031784f73d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a854e82df97aeaf571ea43a4b83edf5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/a854e82df97aeaf571ea43a4b83edf5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d5ccdab5342c9d572f84e57a175a701/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8d5ccdab5342c9d572f84e57a175a701/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4d0a01a41dd7aefaa2b64f452b0fbe2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/4d0a01a41dd7aefaa2b64f452b0fbe2d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5cfb8fa2cc6447ee4c4e67153937ac10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5cfb8fa2cc6447ee4c4e67153937ac10/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/01e14a8f9c6713178f11209d15288b50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/01e14a8f9c6713178f11209d15288b50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e99078df986b2edf07510a35f8d90155/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/baps/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e99078df986b2edf07510a35f8d90155/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/47ff322b46c09e06d2380149cc4d9f42/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/47ff322b46c09e06d2380149cc4d9f42/AndroidManifest.xml:20:5-44
+MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/js-evaluator-for-android-v4.0.0.aar/27d039f134190ed96005c614d8c27062/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.evgenyneu:js-evaluator-for-android:v4.0.0] /Users/baps/.gradle/caches/transforms-1/files-1.1/js-evaluator-for-android-v4.0.0.aar/27d039f134190ed96005c614d8c27062/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/baps/medium_blog/AdaptiveExoplayer/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/567eff37b682742bd4bbb5b751a537e7/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.9.3] /Users/baps/.gradle/caches/transforms-1/files-1.1/exoplayer-core-2.9.3.aar/567eff37b682742bd4bbb5b751a537e7/AndroidManifest.xml:24:22-76
