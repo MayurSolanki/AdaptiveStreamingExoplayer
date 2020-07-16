@@ -1,7 +1,7 @@
-# AdaptiveStreamingExoplayer
-Adaptive Streaming with Exoplayer
+# Adaptive/Smooth Streaming and downloading with Exoplayer
+Adaptive/Smooth streaming and downloading with exoplayer.
 
-Exoplayer with forward, backward, playback speed and one main feature is it will play .m3u8/.mpd file with display of resolution speed.
+Exoplayer with all features like play, pause, forward, backward, speed control which play HLS/Dash link for smooth streaming. It also supports adaptive downloading and download video data in parts with .v3.exo extemsion so only application specific exoplayer can plau it.
 
 MIT License
 
