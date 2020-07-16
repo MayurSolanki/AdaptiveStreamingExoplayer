@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:CircleProgressView="http://schemas.android.com/apk/res-auto"    android:orientation="vertical"
+    android:id="@+id/ll_parent_container"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="On">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <FrameLayout
+            android:id="@+id/frame_layout_main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.google.android.exoplayer2.ui.PlayerView
+                android:id="@+id/player_view"
+                app:controller_layout_id="@layout/online_player_custom_control"
+                app:hide_on_touch="true"
+                app:resize_mode="fill"
+                app:keep_content_on_player_reset="false"
+                android:layout_width="match_parent"
+                android:layout_height="250dp"/>
+
+            <ProgressBar
+                android:id="@+id/loading_exoplayer"
+                android:layout_width="@dimen/_50sdp"
+                android:layout_height="@dimen/_50sdp"
+                android:layout_gravity="center" />
+        </FrameLayout>
+
+    </LinearLayout>
+
+
+
+
+
+
+        <LinearLayout
+            android:padding="@dimen/_2sdp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_marginTop="@dimen/_8sdp"
+            android:id="@+id/ll_download_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+
+
+            <LinearLayout
+                android:layout_centerInParent="true"
+                android:id="@+id/ll_download_video"
+                android:gravity="center"
+                android:background="@drawable/button_round"
+                android:layout_width="@dimen/_120sdp"
+                android:orientation="horizontal"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/img_download_state"
+                    android:padding="@dimen/_4sdp"
+                    android:gravity="center"
+                    android:src="@drawable/ic_download"
+                    android:layout_width="@dimen/_25sdp"
+                    android:layout_height="@dimen/_25sdp"/>
+
+                <TextView
+                    android:id="@+id/tv_download_state"
+                    android:gravity="center"
+                    android:textColor="@android:color/white"
+                    android:textSize="@dimen/_10ssp"
+                    android:text="Start Download"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/_25ssp"/>
+
+
+            </LinearLayout>
+
+            <ProgressBar
+                android:layout_marginLeft="@dimen/_5sdp"
+                android:layout_marginRight="@dimen/_5sdp"
+                android:layout_marginTop="@dimen/_10sdp"
+                android:id="@+id/progress_horizontal_percentage"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_3sdp"
+                android:indeterminate="false"
+                android:maxHeight="10dip"
+                android:minHeight="10dip"
+                android:progress="50"
+                android:progressDrawable="@drawable/progress_exo_downloaded" />
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>
+
+

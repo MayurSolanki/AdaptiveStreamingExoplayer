@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_container"
+    android:layout_margin="@dimen/_2sdp"
+    android:layout_marginLeft="@dimen/_2sdp"
+    android:layout_marginRight="@dimen/_2sdp"
+    android:padding="@dimen/_2sdp"
+    android:layout_marginTop="@dimen/_2sdp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_toLeftOf="@+id/img_arrow_right"
+        android:id="@+id/ll_image_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_video_title"
+            android:text="sdsdkjhfdksj fkjsdksfkfkksk"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:padding="@dimen/_2sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:id="@+id/tv_video_url"
+            android:text="sdsdkjhfdksj fkjsdksfkfkksk"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:padding="@dimen/_2sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_arrow_right"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_keyboard_arrow"
+        android:layout_width="@dimen/_30sdp"
+        android:layout_height="@dimen/_30sdp"
+        tools:ignore="VectorDrawableCompat" />
+
+
+</RelativeLayout>

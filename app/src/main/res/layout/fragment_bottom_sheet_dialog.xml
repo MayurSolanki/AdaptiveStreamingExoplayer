@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp">
+
+
+    <TextView
+        android:id="@+id/tv_video_title"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_marginBottom="@dimen/_2sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text=""
+        android:textColor="@color/colorAccent"
+        android:textSize="@dimen/_14ssp" />
+
+    <LinearLayout
+        android:id="@+id/ll_start_download"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?attr/selectableItemBackground"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:layout_marginRight="32dp"
+            android:src="@drawable/ic_download"
+            android:tint="#737373"
+            tools:ignore="VectorDrawableCompat" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Start Download"
+            android:textColor="#737373"
+            android:textSize="@dimen/_12ssp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll_pause_download"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?attr/selectableItemBackground"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:layout_marginRight="32dp"
+            android:src="@drawable/exo_icon_pause"
+            android:tint="#737373" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Pause Download"
+            android:textColor="#737373"
+            android:textSize="@dimen/_12ssp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_resume_download"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?attr/selectableItemBackground"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:layout_marginRight="32dp"
+            android:src="@drawable/exo_controls_play"
+            android:tint="#737373" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Resume Download"
+            android:textColor="#737373"
+            android:textSize="@dimen/_12ssp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_delete_download"
+        android:layout_marginLeft="@dimen/_2sdp"
+        android:layout_marginRight="@dimen/_2sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:foreground="?attr/selectableItemBackground"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp">
+
+        <ImageView
+            android:layout_width="@dimen/_24sdp"
+            android:layout_height="@dimen/_24sdp"
+            android:layout_marginRight="32dp"
+            android:src="@drawable/ic_delete"
+            android:tint="#737373" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Delete Download"
+            android:textColor="#737373"
+            android:textSize="@dimen/_12ssp" />
+
+    </LinearLayout>
+
+</LinearLayout>

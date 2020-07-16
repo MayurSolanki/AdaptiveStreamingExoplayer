@@ -1,6 +1,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">AdaptiveExoplayer</string>
-
+    <string name="track_selection_title">Select tracks</string>
     <string name="unexpected_intent_action">Unexpected intent action: <xliff:g id="action">%1$s</xliff:g></string>
 
     <string name="error_cleartext_not_permitted">Cleartext traffic not permitted</string>
@@ -48,4 +48,7 @@
     <string name="prefer_extension_decoders">Prefer extension decoders</string>
 
     <string name="random_abr">Enable random ABR</string>
+
+
+
 </resources>
