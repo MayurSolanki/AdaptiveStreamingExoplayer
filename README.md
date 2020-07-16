@@ -1,7 +1,7 @@
 # Adaptive/Smooth Streaming and downloading with Exoplayer
 Adaptive/Smooth streaming and downloading with exoplayer.
 
-Exoplayer with all features like play, pause, forward, backward, speed control which play HLS/Dash link for smooth streaming. It also supports adaptive downloading and download video data in parts with .v3.exo extemsion so only application specific exoplayer can plau it.
+Exoplayer with all features like play, pause, forward, backward, speed control which play HLS/Dash video link for smooth streaming. It also supports adaptive downloading and download video data in parts with .v3.exo extension so only application specific exoplayer can play it.
 
 MIT License
 
