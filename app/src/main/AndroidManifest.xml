@@ -12,16 +12,6 @@
         android:supportsRtl="true"
         android:usesCleartextTraffic="true"
         android:name=".App"
-        android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity"
-            android:windowSoftInputMode="stateHidden"
-            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-    </application>
+        android:theme="@style/AppTheme"></application>
 
 </manifest>
