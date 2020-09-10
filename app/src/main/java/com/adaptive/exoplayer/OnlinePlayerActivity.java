@@ -41,6 +41,7 @@ import com.google.android.exoplayer2.Format;
 import com.google.android.exoplayer2.PlaybackParameters;
 import com.google.android.exoplayer2.PlaybackPreparer;
 import com.google.android.exoplayer2.Player;
+import com.google.android.exoplayer2.RenderersFactory;
 import com.google.android.exoplayer2.SimpleExoPlayer;
 import com.google.android.exoplayer2.mediacodec.MediaCodecRenderer;
 import com.google.android.exoplayer2.mediacodec.MediaCodecUtil;
@@ -901,13 +902,16 @@ DefaultTrackSelector.Parameters qualityParams;
 
 
         TrackSelection.Factory trackSelectionFactory = new AdaptiveTrackSelection.Factory();
-        DefaultRenderersFactory renderersFactory = new DefaultRenderersFactory(this, null, DefaultRenderersFactory.EXTENSION_RENDERER_MODE_PREFER);
+
+    //    DefaultRenderersFactory renderersFactory = new DefaultRenderersFactory(this, null, DefaultRenderersFactory.EXTENSION_RENDERER_MODE_PREFER);
+        RenderersFactory renderersFactory =  ((AdaptiveExoplayer) getApplication()).buildRenderersFactory(true)  ;
 
         trackSelector = new DefaultTrackSelector(trackSelectionFactory);
         trackSelector.setParameters(trackSelectorParameters);
         lastSeenTrackGroupArray = null;
 
         DefaultAllocator defaultAllocator = new DefaultAllocator(true, C.DEFAULT_BUFFER_SEGMENT_SIZE);
+
         DefaultLoadControl defaultLoadControl = new DefaultLoadControl(defaultAllocator,
                 DefaultLoadControl.DEFAULT_MIN_BUFFER_MS,
                 DefaultLoadControl.DEFAULT_MAX_BUFFER_MS,
@@ -917,8 +921,7 @@ DefaultTrackSelector.Parameters qualityParams;
                 DefaultLoadControl.DEFAULT_PRIORITIZE_TIME_OVER_SIZE_THRESHOLDS
         );
 
-
-        player = ExoPlayerFactory.newSimpleInstance(/* context= */ OnlinePlayerActivity.this, renderersFactory, trackSelector, defaultLoadControl);
+        player = new SimpleExoPlayer.Builder(/* context= */ this, renderersFactory).setTrackSelector(trackSelector).setLoadControl(defaultLoadControl).build();
         player.addListener(new PlayerEventListener());
         player.setPlayWhenReady(startAutoPlay);
         player.addAnalyticsListener(new EventLogger(trackSelector));
